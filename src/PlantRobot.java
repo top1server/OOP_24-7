@@ -1,4 +1,4 @@
-public class plantRobot extends Robot implements FarmingRobot {
+public class PlantRobot extends Robot implements FarmingRobot {
     private String plantTree;
 
     
