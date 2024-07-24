@@ -1,5 +1,6 @@
 ### "Tasks for OOP 24_7:"
 # Team 3:
+Member:
 + Nguyễn Minh Đức - 21021292
 + Mai Tiến Dũng - 23020025
 - A create github repo.
