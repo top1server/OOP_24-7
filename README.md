@@ -1,7 +1,7 @@
 # Tasks for OOP 24_7:
 
 ## ***I.Group:***
-+ Team 3:
++ ### Team 3:
 * Nguyễn Minh Đức - 21021292
 * Mai Tiến Dũng - 23020025
 
