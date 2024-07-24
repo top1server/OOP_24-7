@@ -3,7 +3,7 @@
 Build "robot management problem" of a large corporation distributing to businesses
 + Using: Java language programming
 + Working: Team Work (2 peolpe)
-+ It is a practise of OOP_Summer 2024
++ It is a practise of OOP_Summer 2024 
 ## ***II. Author***
 + **UNIVERSITY OF ENGINEERING AND TECHNOLOGY - VIETNAM NATIONAL UNIVERSITY**
 + Team 3:
