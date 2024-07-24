@@ -12,6 +12,6 @@ Build "robot management problem" of a large corporation distributing to business
 
 ## ***III. Activites***
 - Tiến Dũng create github repo.
-- Team together: build UML diagram for robot and team https://drive.google.com/file/d/1g3NXtGGmuCGwIu1uweYX6axWm04Y7Tm9/view?usp=sharing
+- Team together: build UML diagram for robot and team [https://drive.google.com/file/d/1g3NXtGGmuCGwIu1uweYX6axWm04Y7Tm9/view?usp=sharing](https://app.diagrams.net/#G1WJwJ0pl5D11lNjgZLlojvDt3IezIDgey#%7B%22pageId%22%3A%222GV7RQwmIYUY-QW6IIsx%22%7D)
 - All member do as required
 - Video how we team working: 
