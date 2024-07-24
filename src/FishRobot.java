@@ -1,4 +1,4 @@
-public class fishRobot extends Robot implements FarmingRobot {
+public class FishRobot extends Robot implements FarmingRobot {
     private String farm;
     public fishRobot(String robotName, int robotAge, String robotID, String farm) {
         super(robotName, robotAge, robotID);
