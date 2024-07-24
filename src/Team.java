@@ -1,6 +1,11 @@
+
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Iterator;
+
+
+
 
 public class Team {
     private String teamName;
@@ -61,8 +66,7 @@ public class Team {
         return this.teamMembers;
     }
 
-    public void welcomeTeamDisplay() {
-        System.out.println("***************WELCOME TO***************");
-        System.out.println("  ***************" + getTeamName() + "***************");
+    public void welcomeTeam() {
+        
     }
 }

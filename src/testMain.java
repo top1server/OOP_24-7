@@ -13,6 +13,16 @@ public class testMain {
         TeamManagement manage = new TeamManagement();
         manage.addTeam(t);
         manage.addTeam(t1);
+
+        plantRobot farmbot = new plantRobot("Duc", 2, "123", "cay tung");
+        Robot fishbot = new fishRobot("Dung", 5, "456", "give fish eating");
+        farmbot.robotHarvest();
+        manage.addRobotThroughTeam(t, farmbot);
+        manage.addRobotThroughTeam(t, fishbot);
+
+        for(Robot i : manage.getTeamRobots(t)) {
+            System.out.println(i.getRobotName() + "   " + i.getRobotID() + "   ");
+        }
         
     }
 }
