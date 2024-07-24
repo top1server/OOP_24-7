@@ -1,6 +1,8 @@
 # Tasks for OOP 24_7:
 ## ***I. Introduce***
 Build "robot management problem" of a large corporation distributing to businesses
++ Using: Java language programming
++ Working: Team Work (2 peolpe)
 ## ***II. Author***
 + **UNIVERSITY OF ENGINEERING AND TECHNOLOGY - VIETNAM NATIONAL UNIVERSITY**
 + Team 3:
