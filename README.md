@@ -1,4 +1,4 @@
-### "Tasks for OOP 24_7:"
+# Tasks for OOP 24_7:
 
 ***I.Group:***
 + Team 3:
