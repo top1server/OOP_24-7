@@ -14,5 +14,4 @@ Build "robot management problem" of a large corporation distributing to business
 - Tiến Dũng create github repo.
 - Team together: build UML diagram for robot and team.
 - https://drive.google.com/file/d/1g3NXtGGmuCGwIu1uweYX6axWm04Y7Tm9/view?usp=sharing
-- A build robot class.
-- update advance: teamManagement takecare team robot, team takecare member, testMain to check function
+- All member do as required
