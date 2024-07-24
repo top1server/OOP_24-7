@@ -4,3 +4,4 @@
 - https://drive.google.com/file/d/1g3NXtGGmuCGwIu1uweYX6axWm04Y7Tm9/view?usp=sharing
 - A build robot class.
 - update advance: teamManagement takecare team robot, team takecare member, testMain to check function
+- link youtube how we teamwork: https://youtu.be/MP3nXPJn3cY
