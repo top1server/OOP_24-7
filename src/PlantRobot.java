@@ -2,7 +2,7 @@ public class PlantRobot extends Robot implements FarmingRobot {
     private String plantTree;
 
     
-    public plantRobot(String robotName, int robotAge, String robotID, String plantTree) {
+    public PlantRobot(String robotName, int robotAge, String robotID, String plantTree) {
         super(robotName, robotAge, robotID);
         this.plantTree = plantTree;
     }
