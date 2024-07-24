@@ -1,6 +1,6 @@
 public class FishRobot extends Robot implements FarmingRobot {
     private String farm;
-    public fishRobot(String robotName, int robotAge, String robotID, String farm) {
+    public FishRobot(String robotName, int robotAge, String robotID, String farm) {
         super(robotName, robotAge, robotID);
         this.farm = farm;
     }
