@@ -7,7 +7,7 @@ Build "robot management problem" of a large corporation distributing to business
 ## ***II. Author***
 + **UNIVERSITY OF ENGINEERING AND TECHNOLOGY - VIETNAM NATIONAL UNIVERSITY**
 + Team 3:
-- Nguyễn Đức Minh - 21021292
+- Nguyễn Minh Đức - 21021292
 - Mai Tiến Dũng - 23020025
 
 ## ***III. Activites***
